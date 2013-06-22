@@ -15,7 +15,7 @@ import android.widget.TextView;
 
 public class PlayActivity extends Activity {
 	private MyCountDownTimer countDownTimer;
-	private static long startTime = 1000 * 60;
+	private static long startTime = 2000 * 60;
 	private static long interval = 100;
 	private TextView tvTime;
 	private TextView tvCalcQuestion;
